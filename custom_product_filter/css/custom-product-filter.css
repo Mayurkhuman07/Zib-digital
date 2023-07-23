@@ -1,0 +1,38 @@
+/* Custom styles for the product filter */
+.product-filter {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.filtered-products {
+    float: right;
+    width: 70%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.filtered-products h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.filtered-products img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Grid layout for products */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);     gap: 20px;
+}
+
+.filter-btn-plugin {
+    padding: 25px;
+}
+.filtered-products.product-grid {
+    padding-top: 45px;
+}
