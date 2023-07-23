@@ -3,6 +3,7 @@
 Plugin Name: Custom Product Filter
 Description: Adds custom taxonomies and filters for the 'product' post type.
 Version: 1.0
+Author URI: https://wpdeveloperking.com/
 Author: Mayur Khuman
 */
 
