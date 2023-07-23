@@ -18,3 +18,5 @@ Filter all the products using AJAX (without a plugin).
   
   
 ![image](https://github.com/Mayurkhuman07/Zib-digital/assets/55486930/3e7f9407-680c-40cd-98d7-44902997b5ef)
+![image](https://github.com/Mayurkhuman07/Zib-digital/assets/55486930/6d20c774-992e-49e5-870d-5e7572473c77)
+
