@@ -17,3 +17,4 @@ Filter all the products using AJAX (without a plugin).
 -  Show All the products in the Page with the Shortcode [product_filter] .
   
   
+![image](https://github.com/Mayurkhuman07/Zib-digital/assets/55486930/3e7f9407-680c-40cd-98d7-44902997b5ef)
